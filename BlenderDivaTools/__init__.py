@@ -4,7 +4,7 @@ bl_info = {
     "name": "DIVA Tools",
     "author": "ThisIsHH, FlyingSpirits",
     "version": (1, 0, 0),
-    "blender": (4, 3, 0),
+    "blender": (4, 0, 0),
     "description": "Utility tools for Project DIVA Games",
     "category": "Import-Export",
 }
